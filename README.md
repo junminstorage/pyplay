@@ -1,5 +1,5 @@
 # pyplay
-collection of useful python utilities, e.g. json mapper
+collection of useful python utilities, e.g. json path-based object mapper for dictionary and list
 
 ---
 ## mapByJsonPath(src, des, spath, dpath, fns, default=None)
